@@ -1,3 +1,15 @@
+# A note about this fork
+
+The authors of the source of this fork have not made a release for their software 
+on github. Instead, they keep one directory called erds1.1 and another called 
+erds_tcag with a note in the main README that tcag is a reimplementation (See below).
+
+All I have done is removed erds_tcag from v1.1, and made a formal release of v1.1, and then 
+merged a branch with erds_tcag into the main branch, deleted erds1.1, and called that 
+v2.0.
+
+To reiterate: v2.0 is exactly the same as the source of this fork on 20221004.
+
 # ERDS
 
 ERDS is designed for detection of copy number variants (CNVs) on human genomes from next generation sequence data, utilizing information from read depth of short reads and SNV heterozygosity.
