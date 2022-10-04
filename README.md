@@ -8,7 +8,7 @@ All I have done is removed erds_tcag from v1.1, and made a formal release of v1.
 merged a branch with erds_tcag into the main branch, deleted erds1.1, and called that 
 v2.0.
 
-To reiterate: v2.0 is exactly the same as the source of this fork on 20221004.
+To reiterate: v2.0 is exactly the same as erds_tcag in the source of this fork on 20221004.
 
 # ERDS
 
